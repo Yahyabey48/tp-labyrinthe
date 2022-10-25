@@ -1,12 +1,10 @@
-## Vous êtes dans le Salon-PETIT-Kevin :
+# Vous vous trouvez dans le Salon-PETIT-Kevin :
 
-![alt tag] (https://www.deco.fr/sites/default/files/styles/article_970x500/public/2020-02/shutterstock_552591889.jpg?itok=hl9ecIjV)
+![photo](https://www.cdeco.fr/wp-content/uploads/2018/05/conseil-deco-pour-un-salon-design-contemporain.jpg)
 
-## Vous avez devant vous :
+## Vous pouvez accéder à la prochaine pièce :
 
-- [Chambre-Hugo-REMBERT] (https://github.com/Yahyabey48/tp-labyrinthe/blob/Chambre-Hugo-REMBERT/Chambre-Hugo-REMBERT.md)
-- [Chambre-YAHYA-BEY-Ahmed] (https://github.com/Yahyabey48/tp-labyrinthe/blob/Cuisine-YAHYA-BEY-Ahmed/Cuisine-YAHYA-BEY-Ahmed.md)
-
-
+- [Chambre Hugo REMBERT](https://github.com/Yahyabey48/tp-labyrinthe/blob/Chambre-Hugo-REMBERT/Chambre-Hugo-REMBERT.md)
+- [Chambre YAHYA Ahmed](https://github.com/Yahyabey48/tp-labyrinthe/blob/Chambre-YAHYA-BEY-Ahmed/Chambre-YAHYA-BEY-Ahmed.md)
 
 
