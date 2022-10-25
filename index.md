@@ -1,5 +1,5 @@
-## Bienvenue dans ce labyrinthe !
-# Votre objectif ? Sortir de cette maison !
+# Bienvenue dans ce labyrinthe !
+## Votre objectif ? Sortir de cette maison !
 
 ## Devant vous ce trouve ces trois premiers lieux :
 
