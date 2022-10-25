@@ -4,4 +4,4 @@
 
 ## Vous avez le choix entre les 2 portes se tenant devant vous :
 
-- [Sauna](https://github.com/Yahyabey48/tp-labyrinthe/tree/Sauna-Loic-XIA/Sauna.md)
+- [Sauna](https://github.com/Yahyabey48/tp-labyrinthe/tree/Sauna-Loic-XIA/Sauna-Loic-XIA.md)
