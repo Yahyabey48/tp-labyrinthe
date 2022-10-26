@@ -2,7 +2,7 @@ Bienvenue dans la cave !
 
 Température humide et ambiance bizarre.
 Je vous conseil de ne pas rester dans ma cave.
-Même si l'envie de rouge vous faites envie. 
+Même si l'envie de dormir vous prends. 
 Vous pourriez ne plus pouvoir vous éhapper.
 Attention à ne pas croiser une créature.
 
