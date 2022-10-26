@@ -10,3 +10,6 @@ Il se cache un object secret parcourir le labyrinthe vous permettera peut être 
 Enjoy.
 
 Bonne chance. 
+
+
+Pour commencer rendez vous -> (https://github.com/Yahyabey48/tp-labyrinthe/blob/main/index.md)
