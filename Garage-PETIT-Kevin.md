@@ -2,7 +2,7 @@
 
 ![alt tag](https://camo.githubusercontent.com/3732fc3b9762afcffc0bfef5f5e0b7b0c82c878447720062df037160d7b29e33/68747470733a2f2f73742e687a63646e2e636f6d2f73696d67732f70696374757265732f676172616765732f6869732d647265616d2d6361722d6761726167652d6761726167652d656e76792d696d677e646334313139333430313666323736395f342d353738382d312d316334623738322e6a7067)
 
-<a href="https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md" rel="some text">![Foo](https://github.com/Yahyabey48/tp-labyrinthe/blob/Garage-PETIT-Kevin/Images/secret-1142327_1280.jpg?raw=true)</a>
+<a href="https://github.com/cfourcaud/TP2_GRP3_Labyrinthe/blob/main/index.md" rel="some text">![Foo](https://github.com/Yahyabey48/tp-labyrinthe/blob/Garage-PETIT-Kevin/Images/t%C3%A9l%C3%A9chargement.jpg?raw=true)</a>
 
 ## Vous avez devant vous :
 
