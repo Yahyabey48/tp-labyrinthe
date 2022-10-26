@@ -12,4 +12,4 @@ Enjoy.
 Bonne chance. 
 
 
-Pour commencer rendez vous -> (https://github.com/Yahyabey48/tp-labyrinthe/blob/main/index.md)
+Let's GO l'entrée du labyrinthe -> https://github.com/Yahyabey48/tp-labyrinthe/blob/main/index.md
